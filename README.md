@@ -16,3 +16,4 @@
 - C'est quoi une API ? https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3449008-quest-ce-quune-api
 - Liste d'APIs publiques pour s'entraîner: https://github.com/public-apis/public-apis
 - Postman pour tester rapidement des APIs : https://www.postman.com/downloads/
+- API pour récupérer les taux : https://exchangeratesapi.io/
