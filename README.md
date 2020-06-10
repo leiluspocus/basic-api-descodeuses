@@ -9,7 +9,7 @@
 
 
 ## ToDo 2
-- Utiliser cette API: https://trefle.io/api/plants?q=rosemary
+- Utiliser cette API: https://trefle.io/api/plants?q=rosemary (j'ai utilisé le site cors-everywhere pour bypasser l'erreur CORS)
 
 
 ## Ressources
