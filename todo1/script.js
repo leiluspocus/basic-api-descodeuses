@@ -17,3 +17,13 @@ fetch('https://aws.random.cat/meow')
   var image = document.getElementById('test');
   image.src = json.file;
 });
+
+
+fetch('https://api.kanye.rest/')
+.then(function(body) { // body est la réponse de la requête effectuée
+  return body.json(); // Evalue la réponse de l'objet 
+})
+.then(function(json) {
+  var span = document.getElementById('kanyequote');
+  span.innerHTML = json.quote;
+});
